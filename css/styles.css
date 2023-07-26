@@ -55,6 +55,9 @@
   margin-bottom: 25%;
   margin-top: 2%;
 }
+.midhr{
+  margin: 1px 1px 5%;
+}
 hr{
   border:0;
   border-top-width: 15px;
@@ -62,14 +65,6 @@ hr{
   border-top-style: dotted;
   width: 25%;
   margin: 5% auto;
-}
-.midhr{
-  border:0;
-  border-top-width: 15px;
-  border-top-color: #EAF6F6;
-  border-top-style: dotted;
-  width: 25%;
-  margin: 1px 1px 5%;
 }
 .skill-row{
   /* width: 80%; */
