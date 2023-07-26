@@ -14,7 +14,9 @@
   text-align: center;
   color: white;
 }
-
+.Midhr{
+  margin: 5% 35% 5%;
+}
 
 .spro{
   text-decoration: underline;
@@ -55,9 +57,7 @@
   margin-bottom: 25%;
   margin-top: 2%;
 }
-.Midhr{
-  margin: 5% 35% 5%;
-}
+
 hr{
   border:0;
   border-top-width: 15px;
